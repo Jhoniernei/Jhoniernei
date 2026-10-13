@@ -80,19 +80,19 @@ Ejercicios de programación orientada a objetos, lógica de programación y gest
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jhoniernei&show_icons=true&hide_border=true&locale=es)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&locale=es)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoniernei&layout=compact&hide_border=true&locale=es)
 
 ---
 
 ## 🤝 Conecta conmigo
 
 <p>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/Jhoniernei">
     <img src="https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=for-the-badge&logo=github" alt="Mi perfil de GitHub" />
   </a>
 </p>
 
-📧 Correo: TU_CORREO
+📧 Correo: jhoniernei@gmail.com
 
 ---
 
