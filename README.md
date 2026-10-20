@@ -2,6 +2,7 @@
 
 ### 💻 Aprendiz de Análisis y Desarrollo de Software | SENA
 [🌐 **Ver mi hoja de vida en línea**](https://jhoniernei.github.io/Hoja-de-vida/)
+---
 📍 Medellín, Colombia 🇨🇴
 
 Soy bachiller técnico en Desarrollo de Software, graduado en 2025, y actualmente me encuentro en formación en Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA.
