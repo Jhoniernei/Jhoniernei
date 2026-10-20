@@ -1,7 +1,7 @@
 <img src="banner-pixel.svg" alt="Jhonier Sneider - Aprendiz de Análisis y Desarrollo de Software" width="100%" />
 
 ### 💻 Aprendiz de Análisis y Desarrollo de Software | SENA
-https://jhoniernei.github.io/Hoja-de-vida/
+[🌐 **Ver mi hoja de vida en línea**](https://jhoniernei.github.io/Hoja-de-vida/)
 📍 Medellín, Colombia 🇨🇴
 
 Soy bachiller técnico en Desarrollo de Software, graduado en 2025, y actualmente me encuentro en formación en Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA.
