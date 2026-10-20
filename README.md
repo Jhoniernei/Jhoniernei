@@ -1,5 +1,4 @@
 <img src="banner-pixel.svg" alt="Jhonier Sneider - Aprendiz de Análisis y Desarrollo de Software" width="100%" />
-# 👋 ¡Hola! Soy Jhonier Sneider
 
 ### 💻 Aprendiz de Análisis y Desarrollo de Software | SENA
 
